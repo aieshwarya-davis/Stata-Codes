@@ -9,8 +9,8 @@ set matsize 11000
 
 cap cd "C:\Users\adavis3\OneDrive - International Monetary Fund (PRD)\P2\Stata"
 
-global p2_dir "C:\Users\adavis3\OneDrive - International Monetary Fund (PRD)\P2"
-global p2_datadir "C:\Users\adavis3\OneDrive - International Monetary Fund (PRD)\P2\Data"
+global p2_dir "C:\Users\adavis3\P2"
+global p2_datadir "C:\Users\adavis3\P2\Data"
 global p2_codedir "${p2_dir}/Stata"
 global p2_graphdir "${p2_dir}/Graph"
 global p2resultdir "${p2_dir}/Results"
